@@ -1,1 +1,2 @@
 # HLD
+This high-level design for a SaaS solution focuses on building custom sub-domain booking pages and integrating payments using modern technologies. The frontend utilizes ReactJS for performance, styled with React-bootstrap. The backend will be build with Node.js and Express, using MongoDB for flexible data storage. Stripe or RazorPay can be chosen for payment processing due to its ease of integration and wide acceptance. This approach ensures a robust, scalable, and secure system to meet client-specific booking and payment needs.
